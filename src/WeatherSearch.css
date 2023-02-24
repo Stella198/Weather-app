@@ -1,0 +1,49 @@
+.WeatherApp {
+    font-family: arial, sans-serif;
+    color: rgb(138, 138, 138);
+    padding: 16px;
+  }
+  
+  .WeatherApp h1 {
+    margin: 20px 0 0 0;
+    font-size: 28px;
+    font-weight: 200;
+    line-height: 29px;
+  }
+  
+  .WeatherApp ul {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .WeatherApp li {
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 19px;
+    list-style: none;
+  }
+  
+  .WeatherApp img {
+    height: 64px;
+    display: inline-block; 
+    width: 64px;
+    vertical-align: top;
+  }
+
+  
+  .WeatherApp .temperature {
+    font-weight: 400px;
+    color: rgb(33, 33, 33);
+    font-size: 48px;
+    line-height: 64px;
+  }
+  
+  .WeatherApp .unit {
+    color: rgb(33, 33, 33);
+    font-size: 20px;
+    font-weight: 400px;
+    position: relative;
+    top: -34px;
+    margin-left: 5px;
+    line-height: 1;
+  }

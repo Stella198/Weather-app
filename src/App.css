@@ -1,0 +1,15 @@
+.App {
+  background-image: url("images/img.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 500px;
+  height: 500px;
+  font-size: 2.5rem;
+  margin:150px auto;
+  padding: 30px;
+  text-align: center;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow:0 2px 10px rgba(0,0,0,0.2);
+}
